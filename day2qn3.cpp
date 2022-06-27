@@ -54,6 +54,10 @@ void solvebetter(vector<int> v1, vector<int> v2, int n, int m){
 
 void solveoptimal(vector<int> v1, vector<int> v2, int n, int m){
 
+    //gap method
+
+    
+
 }
 
 int main(){
